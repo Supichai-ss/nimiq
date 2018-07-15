@@ -1,7 +1,7 @@
 const config =
 {
   "address": "NQ22 QR5L 6BB5 5G70 6RQ2 DLLQ 968K H8B4 MH7V",
-  "name": "BF4-CALIFORNIA-1",
+  "name": "BF4-OREGON-1",
   "thread": 16,
   "percent": 100,
   "server": "ws://us1.nimiq.skypool.org:4000"
