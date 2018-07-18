@@ -1,6 +1,11 @@
 # nimiq
 
+
+
+
+
 #EC2-C5-4XL ONLY
+
 
 #!/bin/bash
 apt-get upgrade -y 
