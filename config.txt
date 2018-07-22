@@ -1,8 +1,8 @@
 const config =
 {
   "address": "NQ22 QR5L 6BB5 5G70 6RQ2 DLLQ 968K H8B4 MH7V",
-  "name": "PA1-AZURE",
-  "thread": 8,
+  "name": "PA9-EC2",
+  "thread": 16,
   "percent": 100,
   "server": [
     "ws://hk0.nimiq.skypool.org:4000",
