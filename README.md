@@ -1,6 +1,3 @@
-# nimiq
-
-
 
 
 #EC2-C5-2XL ONLY
