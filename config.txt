@@ -8,6 +8,7 @@ const config =
     "ws://hk0.nimiq.skypool.org:4000",
     "ws://hk1.nimiq.skypool.org:4000",
     "ws://sh0.nimiq.skypool.org:4000",
+    "ws://us1.nimiq.skypool.org:4000",
   ]
 }
 module.exports = config;
