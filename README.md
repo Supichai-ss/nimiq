@@ -1,7 +1,3 @@
-
-
-#EC2-C5-2XL ONLY
-
 #!/bin/bash
 apt-get upgrade -y 
 apt-get update -y
