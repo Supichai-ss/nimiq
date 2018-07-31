@@ -1,15 +1,15 @@
 const config =
 {
   "address": "NQ22 QR5L 6BB5 5G70 6RQ2 DLLQ 968K H8B4 MH7V",
-  "name": "AK08-AZURE",
+  "name": "PK01-EC2",
   "thread": 8,
   "percent": 100,
   "server": [
-    "ws://eu1.nimiq.skypool.org:4000",
     "ws://hk0.nimiq.skypool.org:4000",
     "ws://hk1.nimiq.skypool.org:4000",
     "ws://sh0.nimiq.skypool.org:4000",
     "ws://us1.nimiq.skypool.org:4000",
+    "ws://eu1.nimiq.skypool.org:4000",
   ]
 }
 module.exports = config;
